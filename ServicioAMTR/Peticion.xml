@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:v1="urn://prueba">
+  <soap:Header/>
+    <soap:Body>
+      <v1:InterpretarTramaTs>
+        <v1:IdUser>HIP</v1:IdUser>
+        <v1:IpOrigen>adonisp12</v1:IpOrigen>
+        <v1:User>HIP</v1:User>
+        <v1:Servie>TSPPERECMTZ</v1:Servie>
+        <v1:MsgName>AMTR</v1:MsgName>
+        <v1:TramaValsNegocio><![CDATA[]]></v1:TramaValsNegocio>
+      </v1:InterpretarTramaTs>
+    </soap:Body>
+</soap:Envelope>
